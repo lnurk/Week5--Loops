@@ -1,0 +1,15 @@
+C:\Users\lisan\source\repos\MoreLoops\DiceGame\bin\Debug\net5.0\DiceGame.exe
+C:\Users\lisan\source\repos\MoreLoops\DiceGame\bin\Debug\net5.0\DiceGame.deps.json
+C:\Users\lisan\source\repos\MoreLoops\DiceGame\bin\Debug\net5.0\DiceGame.runtimeconfig.json
+C:\Users\lisan\source\repos\MoreLoops\DiceGame\bin\Debug\net5.0\DiceGame.runtimeconfig.dev.json
+C:\Users\lisan\source\repos\MoreLoops\DiceGame\bin\Debug\net5.0\DiceGame.dll
+C:\Users\lisan\source\repos\MoreLoops\DiceGame\bin\Debug\net5.0\ref\DiceGame.dll
+C:\Users\lisan\source\repos\MoreLoops\DiceGame\bin\Debug\net5.0\DiceGame.pdb
+C:\Users\lisan\source\repos\MoreLoops\DiceGame\obj\Debug\net5.0\DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisan\source\repos\MoreLoops\DiceGame\obj\Debug\net5.0\DiceGame.AssemblyInfoInputs.cache
+C:\Users\lisan\source\repos\MoreLoops\DiceGame\obj\Debug\net5.0\DiceGame.AssemblyInfo.cs
+C:\Users\lisan\source\repos\MoreLoops\DiceGame\obj\Debug\net5.0\DiceGame.csproj.CoreCompileInputs.cache
+C:\Users\lisan\source\repos\MoreLoops\DiceGame\obj\Debug\net5.0\DiceGame.dll
+C:\Users\lisan\source\repos\MoreLoops\DiceGame\obj\Debug\net5.0\ref\DiceGame.dll
+C:\Users\lisan\source\repos\MoreLoops\DiceGame\obj\Debug\net5.0\DiceGame.pdb
+C:\Users\lisan\source\repos\MoreLoops\DiceGame\obj\Debug\net5.0\DiceGame.genruntimeconfig.cache
